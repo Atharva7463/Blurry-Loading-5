@@ -1,7 +1,7 @@
 # Blurry-Loading-5
 
 <h3>
-A simple css project.
+A simple css Blur Effect.
 </h3>
 
 <br> 
